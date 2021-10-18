@@ -1,8 +1,8 @@
-eureka:
-  client:
-    register-with-eureka: true
-    fetch-registry: true
-    service-url:
-      defaultZone: https://nutrix-registry-service.mybluemix.net/eureka
+# eureka:
+#   client:
+#     register-with-eureka: true
+#     fetch-registry: true
+#     service-url:
+#       defaultZone: https://nutrix-registry-service.mybluemix.net/eureka
 #   instance:
 #     hostname: nutrix-registry
